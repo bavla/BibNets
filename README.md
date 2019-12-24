@@ -14,3 +14,6 @@ During our workshop we will present the network approach to bibliographic data a
 **Requirements for the participants:** basic knowledge of network analysis is assumed. To follow the workshop hands-on, a laptop with installed software is needed. The details are available at the Github repository.
 
 **Technical requirements:** a beamer (projector) and WiFi connection. 
+
+**Links:**
+- https://github.com/bavla/biblio/tree/master/Pajek
