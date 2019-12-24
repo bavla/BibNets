@@ -17,3 +17,7 @@ During our workshop we will present the network approach to bibliographic data a
 
 **Links:**
 - https://github.com/bavla/biblio/tree/master/Pajek
+- https://github.com/bavla/biblio/tree/master/WoS2Pajek
+- https://github.com/bavla/biblio/tree/master/BibTeX2Pajek
+- https://github.com/bavla/biblio/tree/master/ZB2Pajek
+
