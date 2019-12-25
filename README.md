@@ -21,3 +21,11 @@ During our workshop we will present the network approach to bibliographic data a
 - https://github.com/bavla/biblio/tree/master/BibTeX2Pajek
 - https://github.com/bavla/biblio/tree/master/ZB2Pajek
 
+-
+- Vladimir Batagelj: On Fractional Approach to Analysis of Linked Networks. https://arxiv.org/abs/1903.00605
+- Vladimir Batagelj, Daria Maltseva: Temporal Bibliographic Networks. https://arxiv.org/abs/1903.00600
+-
+- Daria Maltseva, Vladimir Batagelj: Social network analysis as a field of invasions: bibliographic approach to study SNA development.
+Scientometrics (2019-11-01) 121: 1085-1128. https://link.springer.com/article/10.1007%2Fs11192-019-03193-x 
+
+
