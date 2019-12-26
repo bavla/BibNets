@@ -16,10 +16,10 @@ During our workshop we will present the network approach to bibliographic data a
 **Technical requirements:** a beamer (projector) and WiFi connection. 
 
 **Links:**
-- https://github.com/bavla/biblio/tree/master/Pajek
-- https://github.com/bavla/biblio/tree/master/WoS2Pajek
-- https://github.com/bavla/biblio/tree/master/BibTeX2Pajek
-- https://github.com/bavla/biblio/tree/master/ZB2Pajek
+- [Pajek](https://github.com/bavla/biblio/tree/master/Pajek)
+- [WoS2Pajek](https://github.com/bavla/biblio/tree/master/WoS2Pajek)
+- [BibTeX2Pajek](https://github.com/bavla/biblio/tree/master/BibTeX2Pajek)
+- [ZB2Pajek](https://github.com/bavla/biblio/tree/master/ZB2Pajek)
 
 - Vladimir Batagelj, Patrick Doreian, Anuška Ferligoj and Nataša Kejžar: Understanding Large Temporal Networks and Spatial Networks: Exploration, Pattern Searching, Visualization and Network Evolution. Wiley Series in Computational and Quantitative Social Science.   October 2014. [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470714522.html)
 - Vladimir Batagelj, Monika Cerinšek: On bibliographic networks. Scientometrics, September 2013, Volume 96, Issue 3, pp 845–864. [paper](https://link.springer.com/article/10.1007/s11192-012-0940-1)
