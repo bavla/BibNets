@@ -21,12 +21,12 @@ During our workshop we will present the network approach to bibliographic data a
 - https://github.com/bavla/biblio/tree/master/BibTeX2Pajek
 - https://github.com/bavla/biblio/tree/master/ZB2Pajek
 
-- Vladimir Batagelj, Patrick Doreian, Anuška Ferligoj and Nataša Kejžar: Understanding Large Temporal Networks and Spatial Networks: Exploration, Pattern Searching, Visualization and Network Evolution. Wiley Series in Computational and Quantitative Social Science.   October 2014. [[http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470714522.html|Wiley]]
-- Vladimir Batagelj, Monika Cerinšek: On bibliographic networks. Scientometrics, September 2013, Volume 96, Issue 3, pp 845–864. https://link.springer.com/article/10.1007/s11192-012-0940-1
-- Vladimir Batagelj: On Fractional Approach to Analysis of Linked Networks. https://arxiv.org/abs/1903.00605
-- Vladimir Batagelj, Daria Maltseva: Temporal Bibliographic Networks. https://arxiv.org/abs/1903.00600
-- Vladimir Batagelj, Anuška Ferligoj, Flaminio Squazzoni: The emergence of a field: a network analysis of research on peer review. Scientometrics, October 2017, Volume 113, Issue 1, pp 503–532. https://link.springer.com/article/10.1007/s11192-017-2522-8
+- Vladimir Batagelj, Patrick Doreian, Anuška Ferligoj and Nataša Kejžar: Understanding Large Temporal Networks and Spatial Networks: Exploration, Pattern Searching, Visualization and Network Evolution. Wiley Series in Computational and Quantitative Social Science.   October 2014. [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470714522.html)
+- Vladimir Batagelj, Monika Cerinšek: On bibliographic networks. Scientometrics, September 2013, Volume 96, Issue 3, pp 845–864. [paper](https://link.springer.com/article/10.1007/s11192-012-0940-1)
+- Vladimir Batagelj: On Fractional Approach to Analysis of Linked Networks. [arXiv](https://arxiv.org/abs/1903.00605)
+- Vladimir Batagelj, Daria Maltseva: Temporal Bibliographic Networks. [arXiv](https://arxiv.org/abs/1903.00600)
+- Vladimir Batagelj, Anuška Ferligoj, Flaminio Squazzoni: The emergence of a field: a network analysis of research on peer review. Scientometrics, October 2017, Volume 113, Issue 1, pp 503–532. [paper](https://link.springer.com/article/10.1007/s11192-017-2522-8)
 - Daria Maltseva, Vladimir Batagelj: Social network analysis as a field of invasions: bibliographic approach to study SNA development.
-Scientometrics (2019-11-01) 121: 1085-1128. https://link.springer.com/article/10.1007%2Fs11192-019-03193-x 
+Scientometrics (2019-11-01) 121: 1085-1128. [paper](https://link.springer.com/article/10.1007%2Fs11192-019-03193-x) 
 
 
