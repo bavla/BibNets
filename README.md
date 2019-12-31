@@ -31,4 +31,4 @@ Scientometrics (2019-11-01) 121: 1085-1128. [paper](https://link.springer.com/ar
 
 
 - Bartosz Paszcza: Comparison of Microsoft Academic (Graph) with Web of Science, Scopus and Google Scholar. [Master Thesis](https://www.academia.edu/31175789/Comparison_of_Microsoft_Academic_Graph_with_Web_of_Science_Scopus_and_Google_Scholar) 
-- [Scholarly data](https://www.academia.edu/33244312/Information_Processing_and_Management_A_survey_on_scholarly_data_From_big_data_perspective)
+- Xiufeng Liu: Information Processing and Management A survey on scholarly data: From big data perspective. [Paper](https://www.academia.edu/33244312/Information_Processing_and_Management_A_survey_on_scholarly_data_From_big_data_perspective)
